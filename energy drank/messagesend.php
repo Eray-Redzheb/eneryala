@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TS Energy</title>
-    <link rel="stylesheet" href="css/contact.css">
+    <link rel="stylesheet" href="css/messagesend.css">
 </head>
 <body>
 
@@ -31,24 +31,17 @@
                 <li><a href="#">Dropdown 4</a></li>
               </ul>
             </li>
-            <li><a href="index.html">Pricing</a></li>
+            <li><a href="#">Pricing</a></li>
             <li><a href="#">Contact</a></li>
             <img src="images/shop.png" alt="#" height="32px" class="shop">
           </div>
         </ul>
-    </nav>
-      <article id="panel">
-        <form class="contact-formulier" method="POST" action="messagesend.php">
-          <label for="Naam">Name</label><br><input type="text" placeholder="Name*"><br><br>
-          <label for="Achternaam">Surname</label><br><input type="text" placeholder="Surname*"><br><br>
-          <label for="Email">Email</label><br><input type="text" placeholder="Email*"><br><br>
-          <label for="Bericht">Message</label><br><textarea rows="8" class="contact-message" placeholder="Message*"></textarea><br><br>
-          <label></label><br><input type="submit" class="contact-submit" value = "Submit">
-        </form>
-      </article>
+      </nav>
+
+      <section class="message-send">
+      <img src="images/groen-vinkje.png">
+      <p>You're message has been send succesfully :)</p>
+      </section>
+
 </body>
 </html>
-
-<?php
-
-?>
