@@ -115,46 +115,37 @@ input[type=checkbox]{
    }
    }
 
-   #events-eerste-rij {
+   #images {
     display: flex;
-    margin-top: 1%;
-    justify-content: space-around;
    }
 
-   .Justin-Bieber {
+   .Doja-Cat-1 {
     width: 450px;
     height: auto;
+    padding: 2%;
    }
 
-   .Eminem {
+   .Doja-Cat-2 {
     width: 450px;
     height: auto;
+    padding: 2%;
    }
 
-   .Dua-Lipa {
+   .Doja-Cat-3 {
     width: 450px;
     height: auto;
+    padding: 2%;
    }
 
-   .events-tweede-rij {
+   .Doja-Cat-Info {
     display: flex;
-    margin-top: 1%;
     justify-content: space-around;
+    align-items: center;
+    font-size: 22px;
    }
 
-   .Doja-Cat {
+   .Doja-Cat-4 {
     width: 450px;
     height: auto;
+    padding: 2%;
    }
-
-   .Billie {
-    width: 450px;
-    height: auto;
-   }
-
-   .Olivia {
-    width: 450px;
-    height: auto;
-   }
-
-

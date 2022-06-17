@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TS Energy</title>
-    <link rel="stylesheet" href="css/eventspagina1.css">
+    <link rel="stylesheet" href="css/olivia.css">
 </head>
 <body>
 
@@ -21,7 +21,7 @@
             <li><a href="homepage.php">Home</a></li>
             <li><a href="#">About</a></li>
             <li class="services">
-              <a href="#">Events</a>
+              <a href="eventspagina1.php">Events</a>
               <!-- DROPDOWN MENU -->
               <ul class="dropdown">
                 <li><a href="#">Dropdown 1 </a></li>
@@ -36,18 +36,18 @@
             <img src="images/shop.png" alt="#" height="32px" class="shop">
           </div>
         </ul>
-      </nav>
-
-      <section id="events-eerste-rij">
-          <a href="justinbieber.php"><img src="images/Justin-Bieber-1.png" class="Justin-Bieber"></>
-          <a href="eminem.php"><img src="images/eminem.png" class="Eminem"></a>
-          <a href="dualipa.php"><img src="images/dualipa.png" class="Dua-Lipa"></a>
-      </section>
-      <section class="events-tweede-rij">
-          <a href="dojacat.php"><img src="images/dojacat.png" class="Doja-Cat"></>
-          <a href="billie.php"><img src="images/billie.png" class="Billie"></>
-          <a href="olivia.php"><img src="images/olivia.png" class="Olivia"></>
-      </section>
+    </nav>
+    <section id="images">
+        <img src="images/olivia.png" class="Olivia-1">
+        <img src="images/olivia1.png" class="Olivia-2">
+        <img src="images/olivia2.png" class="Olivia-3">
+    </section>
+        <section  class="Olivia-Info">
+            <p><b>Artist:</b><br>Olivia Rodrigo</p>
+            <p><b>Where:</b><br>Amsterdam</p>
+            <p><b>When:</b><br>16 July 2022</p>
+            <p><b>What time:</b><br>From 12AM to 10AM</p>
+        </section>
 
 </body>
 </html>
