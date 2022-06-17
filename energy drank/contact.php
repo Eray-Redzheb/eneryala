@@ -19,9 +19,9 @@
           <!-- NAVIGATION MENUS -->
           <div class="menu">
             <li><a href="homepage.php">Home</a></li>
-            <li><a href="#">About</a></li>
+            <li><a href="eventspagina1.php">About</a></li>
             <li class="services">
-              <a href="#">Services</a>
+              <a href="eventspagina1.php">Events</a>
               <!-- DROPDOWN MENU -->
               <ul class="dropdown">
                 <li><a href="#">Dropdown 1 </a></li>

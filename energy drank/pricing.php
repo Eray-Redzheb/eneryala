@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TS Energy</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/pricing.css">
 </head>
 <body>
 
@@ -21,7 +21,7 @@
             <li><a href="homepage.php">Home</a></li>
             <li><a href="#">About</a></li>
             <li class="services">
-              <a href="#">Services</a>
+              <a href="eventspagina1.php">Events</a>
               <!-- DROPDOWN MENU -->
               <ul class="dropdown">
                 <li><a href="#">Dropdown 1 </a></li>

@@ -115,49 +115,49 @@ input[type=checkbox]{
    }
    }
 
-#panel {
+   #panel {
     background-color: teal;
-    width: 550px;
-    height: 580px;
+    width: 650px;
+    height: 550px;
     border-radius: 8px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 2%;   
     margin-top: 2%;
 }
 
-.contact-formulier {
+#panel > section > h1 {
+    font-weight: normal;
     display: flex;
     justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    padding: 7vh;
+    font-size: 50px;
 }
 
-.contact-formulier > label {
-    font-size: 20px;
+#panel > section > p {
+    font-size: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4%;
 }
 
-.contact-formulier > input[type = text] {
-    width: 70%;
-    padding: 5px;
+.buy-now-knopje > a {
+    font-size: 40px;
+    color: rgb(2, 74, 74);
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
 }
 
-.contact-message {
-    width: 70%;
+.buy-now-knopje > a:hover {
+    color: #02a4a4;
 }
 
-.contact-submit {
-    width: 80px;
-    height: 40px;
-    background-color: rgb(1, 139, 139);
-    border-radius: 8px;
-    cursor: pointer;
-    border: none;
-    opacity: 0.6;
-    transition: 0.3s;
+.plaatjes-energy{
+    display: flex;
+    flex-direction: row;   
 }
-.contact-submit:hover {
-    background-color: aqua;
+
+#homepage {
+    display: flex;
 }

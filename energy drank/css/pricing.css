@@ -115,49 +115,104 @@ input[type=checkbox]{
    }
    }
 
-#panel {
-    background-color: teal;
-    width: 550px;
-    height: 580px;
-    border-radius: 8px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 2%;
+
+   /* WEBSITE CONTENT */
+
+   /* #box {
+       background-color: #4c9e9e;
+       border-radius: 8px;
+       height: 350px;
+       width: 350px;
+       margin-top: 120px;
+       margin-left: 350px;
+   }
+
+   .text {
+       padding: 4%;
+       text-align: center;
+   } */
+
+   /* Slideshow container */
+.slideshow-container {
+    max-width: 1000px;
+    margin-top: 30px;
+    margin-left: 37%;
+  }
+  
+  /* The dots/bullets/indicators */
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .active {
+    background-color: #717171;
+  }
+  
+  /* Fading animation */
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  
+  /* On smaller screens, decrease text size */
+  @media only screen and (max-width: 300px) {
+    .text {font-size: 11px}
+  }
+
+
+/* Code */
+
+.shop {
+  cursor: pointer;
+  margin-right: 15px;
 }
 
-.contact-formulier {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    padding: 7vh;
+
+#products {
+  margin-top: 3%;
+  margin-left: 9%;
 }
 
-.contact-formulier > label {
-    font-size: 20px;
+.column {
+  float: left;
+  width: 33.33%;
+  /* padding: 5px; */
 }
 
-.contact-formulier > input[type = text] {
-    width: 70%;
-    padding: 5px;
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
-.contact-message {
-    width: 70%;
+#buy {
+  background-color: #4c9e9e;
+  width: 100px;
+  height: 50px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
-.contact-submit {
-    width: 80px;
-    height: 40px;
-    background-color: rgb(1, 139, 139);
-    border-radius: 8px;
-    cursor: pointer;
-    border: none;
-    opacity: 0.6;
-    transition: 0.3s;
+#buy:hover {
+  background-color: aqua;
+  border: none;
+  opacity: 0.6;
+  transition: 0.3s;
 }
-.contact-submit:hover {
-    background-color: aqua;
+
+.img {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }

@@ -115,49 +115,11 @@ input[type=checkbox]{
    }
    }
 
-#panel {
-    background-color: teal;
-    width: 550px;
-    height: 580px;
-    border-radius: 8px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 2%;
-}
+   #events-eerste-rij {
+    padding: 2%;
+   }
 
-.contact-formulier {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    padding: 7vh;
-}
-
-.contact-formulier > label {
-    font-size: 20px;
-}
-
-.contact-formulier > input[type = text] {
-    width: 70%;
-    padding: 5px;
-}
-
-.contact-message {
-    width: 70%;
-}
-
-.contact-submit {
-    width: 80px;
-    height: 40px;
-    background-color: rgb(1, 139, 139);
-    border-radius: 8px;
-    cursor: pointer;
-    border: none;
-    opacity: 0.6;
-    transition: 0.3s;
-}
-.contact-submit:hover {
-    background-color: aqua;
-}
+   .Justin-Bieber {
+    width: 450px;
+    height: auto;
+   }

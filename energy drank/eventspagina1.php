@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TS Energy</title>
-    <link rel="stylesheet" href="css/messagesend.css">
+    <link rel="stylesheet" href="css/eventspagina1.css">
 </head>
 <body>
 
@@ -21,7 +21,7 @@
             <li><a href="homepage.php">Home</a></li>
             <li><a href="#">About</a></li>
             <li class="services">
-              <a href="eventspagina1.php">Events</a>
+              <a href="#">Events</a>
               <!-- DROPDOWN MENU -->
               <ul class="dropdown">
                 <li><a href="#">Dropdown 1 </a></li>
@@ -38,9 +38,9 @@
         </ul>
       </nav>
 
-      <section class="message-send">
-      <img src="images/groen-vinkje.png">
-      <p>You're message has been send succesfully :)</p>
+      <section id="events-eerste-rij">
+      <img src="images/Justin-Bieber-1.png" class="Justin-Bieber">
+
       </section>
 
 </body>
