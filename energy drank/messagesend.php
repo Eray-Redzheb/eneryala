@@ -18,7 +18,7 @@
           <label for="checkbox_toggle" class="hamburger">&#9776;</label>
           <!-- NAVIGATION MENUS -->
           <div class="menu">
-            <li><a href="#">Home</a></li>
+            <li><a href="homepage.php">Home</a></li>
             <li><a href="#">About</a></li>
             <li class="services">
               <a href="#">Services</a>
@@ -31,8 +31,8 @@
                 <li><a href="#">Dropdown 4</a></li>
               </ul>
             </li>
-            <li><a href="#">Pricing</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="pricing.php">Pricing</a></li>
+            <li><a href="contact.php">Contact</a></li>
             <img src="images/shop.png" alt="#" height="32px" class="shop">
           </div>
         </ul>
