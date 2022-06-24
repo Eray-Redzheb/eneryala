@@ -10,7 +10,7 @@
 
     <nav class="navbar">
         <!-- LOGO -->
-        <div class="logo">LOGO</div>
+        <div class="logo">CanaEnergy</div>
         <!-- NAVIGATION MENU -->
         <ul class="nav-links">
           <!-- USING CHECKBOX HACK -->
