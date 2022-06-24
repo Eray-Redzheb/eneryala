@@ -19,17 +19,10 @@
           <!-- NAVIGATION MENUS -->
           <div class="menu">
             <li><a href="homepage.php">Home</a></li>
-            <li><a href="#">About</a></li>
+            <li><a href="aboutus.php">About</a></li>
             <li class="services">
               <a href="#">Events</a>
               <!-- DROPDOWN MENU -->
-              <ul class="dropdown">
-                <li><a href="#">Dropdown 1 </a></li>
-                <li><a href="#">Dropdown 2</a></li>
-                <li><a href="#">Dropdown 2</a></li>
-                <li><a href="#">Dropdown 3</a></li>
-                <li><a href="#">Dropdown 4</a></li>
-              </ul>
             </li>
             <li><a href="pricing.php">Pricing</a></li>
             <li><a href="contact.php">Contact</a></li>
