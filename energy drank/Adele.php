@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TS Energy</title>
-    <link rel="stylesheet" href="css/eventspagina1.css">
+    <link rel="stylesheet" href="css/olivia.css">
 </head>
 <body>
 
@@ -21,7 +21,7 @@
             <li><a href="homepage.php">Home</a></li>
             <li><a href="#">About</a></li>
             <li class="services">
-              <a href="#">Events</a>
+              <a href="eventspagina1.php">Events</a>
               <!-- DROPDOWN MENU -->
               <ul class="dropdown">
                 <li><a href="#">Dropdown 1 </a></li>
@@ -36,21 +36,17 @@
             <img src="images/shop.png" alt="#" height="32px" class="shop">
           </div>
         </ul>
-      </nav>
-      <section class="info-events-page">
-        <p>Welcome to our events page, her you can see every artist that is going to play the next month. 
-            If you want some more information you can click on the image of the person.</p>
-      </section>
-      <section id="events-eerste-rij">
-          <a href="Adele.php"><img src="images/adele.png" class="Adele"></>
-          <a href="eminem.php"><img src="images/eminem.png" class="Eminem"></a>
-          <a href="dualipa.php"><img src="images/dualipa.png" class="Dua-Lipa"></a>
-      </section>
-      <section id="events-tweede-rij">
-          <a href="justinbieber.php"><img src="images/Justin-Bieber-1.png" class="Justin-Bieber"></>
-          <a href="eminem.php"><img src="images/eminem.png" class="Eminem"></a>
-          <a href="dualipa.php"><img src="images/dualipa.png" class="Dua-Lipa"></a>
-      </section>
-
+    </nav>
+    <section id="images">
+        <img src="images/adele.png" class="Adele-1">
+        <img src="images/adele1.png" class="Adele-2">
+        <img src="images/adele2.png" class="Adele-3">
+    </section>
+        <section  class="Adele-Info">
+            <p><b>Artist:</b><br>Adele</p>
+            <p><b>Where:</b><br>Amsterdam</p>
+            <p><b>When:</b><br>18 July 2022</p>
+            <p><b>What time:</b><br>From 8PM to 10AM</p>
+        </section>
 </body>
 </html>

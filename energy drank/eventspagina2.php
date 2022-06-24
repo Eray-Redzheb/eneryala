@@ -37,19 +37,16 @@
           </div>
         </ul>
       </nav>
-      <section class="info-events-page">
-        <p>Welcome to our events page, her you can see every artist that is going to play the next month. 
-            If you want some more information you can click on the image of the person.</p>
-      </section>
+
       <section id="events-eerste-rij">
-          <a href="Adele.php"><img src="images/adele.png" class="Adele"></>
-          <a href="eminem.php"><img src="images/eminem.png" class="Eminem"></a>
-          <a href="dualipa.php"><img src="images/dualipa.png" class="Dua-Lipa"></a>
-      </section>
-      <section id="events-tweede-rij">
           <a href="justinbieber.php"><img src="images/Justin-Bieber-1.png" class="Justin-Bieber"></>
           <a href="eminem.php"><img src="images/eminem.png" class="Eminem"></a>
           <a href="dualipa.php"><img src="images/dualipa.png" class="Dua-Lipa"></a>
+      </section>
+      <section class="events-tweede-rij">
+          <a href="dojacat.php"><img src="images/dojacat.png" class="Doja-Cat"></>
+          <a href="billie.php"><img src="images/billie.png" class="Billie"></>
+          <a href="olivia.php"><img src="images/olivia.png" class="Olivia"></>
       </section>
 
 </body>

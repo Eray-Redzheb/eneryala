@@ -121,7 +121,7 @@ input[type=checkbox]{
     justify-content: space-around;
    }
 
-   .Adele {
+   .Justin-Bieber {
     width: 450px;
     height: auto;
    }
@@ -136,7 +136,7 @@ input[type=checkbox]{
     height: auto;
    }
 
-   #events-tweede-rij {
+   .events-tweede-rij {
     display: flex;
     margin-top: 1%;
     justify-content: space-around;
@@ -157,18 +157,4 @@ input[type=checkbox]{
     height: auto;
    }
 
-   .info-events-page {
-    background-color: teal;
-    width: 1470px;
-    height: 100px;
-    border-radius: 8px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    display: block;
-    margin-left: 2%;   
-    margin-top: 2%;
-   }
 
-    .info-events-page > p {
-        font-size: 25px;
-        text-align: center;
-    }
