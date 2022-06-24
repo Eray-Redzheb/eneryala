@@ -33,6 +33,7 @@
             </li>
             <li><a href="#">Pricing</a></li>
             <li><a href="contact.php">Contact</a></li>
+            <li><a href="logout.php">Uitloggen</a></li>
             <img src="images/shop.png" alt="#" height="32px" class="shop">
           </div>
         </ul>
