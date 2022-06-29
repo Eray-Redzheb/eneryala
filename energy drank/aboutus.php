@@ -39,7 +39,7 @@
 </div>
 <div class="bg-text1">
   <section id="foto-block">
-  <img src="img/card1.jpg">
+  <img src="img about us/card1.jpg">
   <h3>n May 8, 1886, Dr. John Pemberton served the world’s first Coca-Cola at Jacobs' Pharmacy in Atlanta, Ga. 
     From that one iconic drink, we’ve evolved into a total beverage company. 
     More than 1.9 billion servings of our drinks are enjoyed in more than 200 countries each day. 
@@ -48,13 +48,13 @@
   </div>
   <div class="bg-text2">
     <section id="foto-block">
-      <img src="img/purpose-776x664.jpeg">  
+      <img src="img about us/purpose-776x664.jpeg">  
       <h3>OUR VISION IS TO BE THE LEADING 24/7 BEVERAGE PARTNER – GROWING WITH OUR CUSTOMERS BY ENSURING WE HAVE A BEVERAGE FOR EVERY OCCASION AROUND THE CLOCK</h3>
     </section>
   </div>
 <div class="bg-text3">
   <section id="foto-block">
-    <img src="img/where-we-operate-29-countries.jpeg">
+    <img src="img about us/where-we-operate-29-countries.jpeg">
     <h3>We bottle and sell the beverages of The Coca-Cola Company exclusively in our 29 markets. We create value for all our stakeholders by supporting the socio-economic development of the societies in which we operate.</h3>
   </section>
 </div>
