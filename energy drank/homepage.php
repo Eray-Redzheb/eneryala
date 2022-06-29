@@ -37,7 +37,7 @@
             <h1>Alles over Cannabis Energy</h1>
             <p>Our cans have been around since 2000, Cannabis Energy has functional cans in all sizes,
                 250ml, 333ml and 500ml. If you also want to relax, these are the cans for you.<br><br>
-                Available on our website and in the coffee shops :) Don't smoke weed drink it.
+                Available on our website and in the coffee shops :) 
             </p>
             <section class="buy-now-knopje">
                 <a href="pricing.php">Buy now</a>
