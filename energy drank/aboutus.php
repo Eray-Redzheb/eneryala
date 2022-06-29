@@ -10,7 +10,7 @@
  <body>
    <nav class="navbar">
      <!-- LOGO -->
-     <div class="logo"><img src="images/logo_large.png" alt="">
+     <div class="logo">CanaEnergy</div>
      </div>
      <!-- NAVIGATION MENU -->
      <ul class="nav-links">
