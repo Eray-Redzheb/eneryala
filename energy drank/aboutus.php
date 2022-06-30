@@ -40,7 +40,7 @@
 </div>
 <div class="bg-text1">
   <section id="foto-block">
-  <img src="images/foto.png">
+  <img src="images/card1.jpg">
   <h3>n May 8, 1886, Dr. John Pemberton served the world’s first Coca-Cola at Jacobs' Pharmacy in Atlanta, Ga. 
     From that one iconic drink, we’ve evolved into a total beverage company. 
     More than 1.9 billion servings of our drinks are enjoyed in more than 200 countries each day. 
@@ -49,7 +49,7 @@
   </div>
   <div class="bg-text2">
     <section id="foto-block">
-      <img src="images/foto1.png">  
+      <img src="images/purpose-776x664.jpeg">  
       <h3>OUR VISION IS TO BE THE LEADING 24/7 BEVERAGE PARTNER – GROWING WITH OUR CUSTOMERS BY ENSURING WE HAVE A BEVERAGE FOR EVERY OCCASION AROUND THE CLOCK</h3>
     </section>
   </div>
@@ -61,7 +61,7 @@
 </div>
 <div class="footer">
   <section>
-    <img id="logo-foto" src="img/logo_large.png">
+    <img id="logo-foto" src="images/logo_large.png">
   </section>
 </div>
 </body>
