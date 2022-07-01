@@ -5,31 +5,32 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
    <link rel="stylesheet" href="css/aboutus.css">
-   <title>AboutUs</title>
+   <title>About Us</title>
  </head>
  <body>
-   <nav class="navbar">
-     <!-- LOGO -->
-     <div class="logo">CanaEnergy</div>
-     </div>
-     <!-- NAVIGATION MENU -->
-     <ul class="nav-links">
-       <!-- USING CHECKBOX HACK -->
-       <input type="checkbox" id="checkbox_toggle" />
-       <label for="checkbox_toggle" class="hamburger">&#9776;</label>
-       <!-- NAVIGATION MENUS -->
-       <div class="menu">
-         <li><a href="homepage.php">Home</a></li>
-         <li><a href="#">About</a></li>
-         <li class="services">
-           <a href="eventspagina1.php">Events</a>
-           <!-- DROPDOWN MENU -->
-         </li>
-         <li><a href="pricing.php">Pricing</a></li>
-         <li><a href="contact.php">Contact</a></li>
-       </div>
-     </ul>
-   </nav>
+ <nav class="navbar">
+        <!-- LOGO -->
+        <div class="logo">CanaEnergy</div>
+        <!-- NAVIGATION MENU -->
+        <ul class="nav-links">
+          <!-- USING CHECKBOX HACK -->
+          <input type="checkbox" id="checkbox_toggle" />
+          <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+          <!-- NAVIGATION MENUS -->
+          <div class="menu">
+            <li><a href="homepage.php">Home</a></li>
+            <li><a href="aboutus.php">About</a></li>
+            <li class="services">
+              <a href="eventspagina1.php">Events</a>
+              <!-- DROPDOWN MENU -->
+            </li>
+            <li><a href="pricing.php">Pricing</a></li>
+            <li><a href="contact.php">Contact</a></li>
+            <li><a href="logout.php">Uitloggen</a></li>
+            <img src="images/shop.png" alt="#" height="32px"class="shop">
+          </div>
+        </ul>
+      </nav>
    <div class="text-1">
    <h3>On May 8, 1886, Dr. John Pemberton served the world’s first Coca-Cola at Jacobs' Pharmacy in Atlanta, Ga. 
     From that one iconic drink, we’ve evolved into a total beverage company. 
