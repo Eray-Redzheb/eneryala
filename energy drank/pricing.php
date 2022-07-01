@@ -78,6 +78,11 @@
         </div>
       </div>
     </section>
+    <div class="footer">
+  <section>
+    <img id="logo-foto" src="images/logo_large.png">
+  </section>
+</div>
 
       <!-- <div class="slideshow-container">
 

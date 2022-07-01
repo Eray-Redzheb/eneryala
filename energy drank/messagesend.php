@@ -36,6 +36,11 @@
       <img src="images/groen-vinkje.png">
       <p>You're message has been send succesfully :)</p>
       </section>
+      <div class="footer">
+  <section>
+    <img id="logo-foto" src="images/logo_large.png">
+  </section>
+</div>
 
 </body>
 </html>

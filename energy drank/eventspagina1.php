@@ -42,6 +42,11 @@
           <a href="billie.php"><img src="images/billie.png" class="Billie"></>
           <a href="olivia.php"><img src="images/olivia.png" class="Olivia"></>
       </section>
+      <div class="footer">
+  <section>
+    <img id="logo-foto" src="images/logo_large.png">
+  </section>
+</div>
 
 </body>
 </html>

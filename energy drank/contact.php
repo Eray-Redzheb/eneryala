@@ -40,6 +40,11 @@
           <label></label><br><input type="submit" class="contact-submit" value = "Submit">
         </form>
       </article>
+      <div class="footer">
+  <section>
+    <img id="logo-foto" src="images/logo_large.png">
+  </section>
+</div>
 </body>
 </html>
 

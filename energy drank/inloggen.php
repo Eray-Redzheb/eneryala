@@ -16,6 +16,11 @@
     <input type="password" name="password" class="password">
     <input type="submit" name="submit" value="Inloggen" class="button">
     </section>
+    <div class="footer">
+  <section>
+    <img id="logo-foto" src="images/logo_large.png">
+  </section>
+</div>
 </body>
 </html>
 

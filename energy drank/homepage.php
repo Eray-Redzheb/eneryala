@@ -49,5 +49,10 @@
         <img src="images/ananas.png">
     </section>
 </section>
+<div class="footer">
+  <section>
+    <img id="logo-foto" src="images/logo_large.png">
+  </section>
+</div>
 </body>
 </html>

@@ -43,6 +43,11 @@
             <p><b>When:</b><br>12 July 2022</p>
             <p><b>What time:</b><br>From 4PM to 11PM</p>
         </section>
+        <div class="footer">
+  <section>
+    <img id="logo-foto" src="images/logo_large.png">
+  </section>
+</div>
 
 </body>
 </html>
